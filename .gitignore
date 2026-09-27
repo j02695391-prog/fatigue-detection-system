@@ -1,0 +1,12 @@
+# Pretrained model (download separately, see README)
+shape_predictor_68_face_landmarks.dat
+*.dat
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS
+.DS_Store
